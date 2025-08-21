@@ -3,7 +3,7 @@
     <name>EpubChecker</name>
     <type>edit</type>
     <author>jun-hyung-joon</author>
-    <description>epubcheck integrated plugin for validating EPUB files</description>
+    <description>A Sigil plugin that validates EPUB files using epubcheck</description>
     <engine>python3.4</engine>
     <version>1.0.0</version>
     <autostart>true</autostart>
