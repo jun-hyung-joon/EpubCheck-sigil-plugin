@@ -94,41 +94,6 @@ Info: 0 ℹ️
 | macOS | ✅ | Intel and Apple Silicon, Homebrew support |
 | Linux | ✅ | Most distributions with Java support |
 
-## Requirements
-
-- **Sigil**: Version 1.0 or later
-- **Java**: JRE 8 or later
-- **epubcheck**: Version 4.0 or later (latest recommended)
-
-## Troubleshooting
-
-### **"epubcheck is not installed"**
-- Ensure epubcheck is installed and accessible
-- Try placing `epubcheck.jar` on your Desktop
-- Check that Java is properly installed
-
-### **"Java is not installed"**
-- Install Java using your system's package manager
-- Verify installation with `java -version`
-
-### **Plugin not appearing in menu**
-- Restart Sigil after plugin installation
-- Check that the plugin file is in the correct plugins directory
-
-### **Using multiple epubcheck versions**
-- The plugin automatically detects the latest version installed
-- If you have multiple versions, it will use the newest one
-- To force a specific version, ensure only that version is accessible
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
@@ -138,7 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **[epubcheck](https://github.com/w3c/epubcheck)** - The official EPUB validation tool by W3C. This plugin is a wrapper that integrates epubcheck into Sigil.
 - [Sigil](https://sigil-ebook.com/) - The amazing EPUB editor
-- All contributors who help improve this plugin
 
 ## Dependencies
 
