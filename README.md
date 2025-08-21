@@ -41,7 +41,7 @@ sudo apt install openjdk-11-jdk  # Ubuntu/Debian
 
 ### 3. Install the Sigil Plugin
 
-1. Download the latest `EpubChecker.zip` from [releases](https://github.com/yourusername/epubcheck-sigil/releases)
+1. Download the latest `EpubChecker.zip` from [releases](https://github.com/jun-hyung-joon/epubcheck-sigil/releases)
 2. In Sigil, go to **Plugins** → **Manage Plugins**
 3. Click **Add Plugin** and select the downloaded file
 
