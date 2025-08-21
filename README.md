@@ -1,7 +1,7 @@
-# epubcheck-sigil
+# EpubChecker-sigil
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/yourusername/epubcheck-sigil)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/jun-hyung-joon/EpubChecker-sigil)
 [![Sigil](https://img.shields.io/badge/Sigil-1.0%2B-blue)](https://sigil-ebook.com/)
 
 A Sigil plugin that validates EPUB files using epubcheck, providing detailed error reports and warnings directly within the Sigil editor. The plugin automatically detects and uses the latest installed version of epubcheck, ensuring you're always validating with the most up-to-date standards.
@@ -41,7 +41,7 @@ sudo apt install openjdk-11-jdk  # Ubuntu/Debian
 
 ### 3. Install the Sigil Plugin
 
-1. Download the latest `EpubChecker.zip` from [releases](https://github.com/jun-hyung-joon/EpubCheck-sigil-plugin/releases)
+1. Download the latest `EpubChecker.zip` from [releases](https://github.com/jun-hyung-joon/EpubChecker-sigil-plugin/releases)
 2. In Sigil, go to **Plugins** → **Manage Plugins**
 3. Click **Add Plugin** and select the downloaded file
 
