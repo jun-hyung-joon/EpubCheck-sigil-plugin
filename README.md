@@ -90,7 +90,7 @@ Info: 0 ℹ️
 
 | Platform | Status | Notes |
 |----------|--------|-------|
-| Windows 10/11 | ✅ | Supports Chocolatey and manual installation |
+| Windows 11 | ✅ | Supports Chocolatey and manual installation |
 | macOS | ✅ | Intel and Apple Silicon, Homebrew support |
 | Linux | ✅ | Most distributions with Java support |
 
