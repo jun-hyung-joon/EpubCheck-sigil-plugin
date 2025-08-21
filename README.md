@@ -6,17 +6,6 @@
 
 A Sigil plugin that validates EPUB files using epubcheck, providing detailed error reports and warnings directly within the Sigil editor. The plugin automatically detects and uses the latest installed version of epubcheck, ensuring you're always validating with the most up-to-date standards.
 
-## Features
-
-- 🔍 **Complete EPUB validation** using the official epubcheck tool
-- 🔄 **Auto-detection of latest epubcheck version** - automatically finds and uses the newest installed version
-- 📊 **Detailed error reporting** with line numbers and file locations
-- 🌍 **Cross-platform support** for Windows, macOS, and Linux
-- ⚡ **Easy installation** with automatic epubcheck detection
-- 🎯 **User-friendly output** with categorized errors, warnings, and info messages
-- 🔧 **Flexible setup** supports both JAR and executable versions of epubcheck
-- 🆙 **Future-proof** - works with any epubcheck version without plugin updates
-
 ## Installation
 
 ### 1. Install epubcheck
